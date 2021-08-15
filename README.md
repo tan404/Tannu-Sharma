@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tan404&label=Profile%20views&color=0e75b6&style=flat" alt="tan404" /> </p>
 
-- 🌱 I’m currently learning **stuff related to Data Analyst.**
+- I’m currently learning **stuff related to Data Analyst.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tannu-sharma-38ab521a9/**
+- How to reach me **https://www.linkedin.com/in/tannu-sharma-38ab521a9/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
