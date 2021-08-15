@@ -1,4 +1,3 @@
-# Tannu-Sharma
 <h1 align="center">Hi 👋, I'm Tannu Sharma</h1>
 <h3 align="center">Learning difficult stuff to make them easy!</h3><p align="right">
 <p align="right">
