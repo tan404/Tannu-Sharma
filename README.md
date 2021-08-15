@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tannu Sharma</h1>
 <h3 align="center">Learning difficult stuff to make them easy!</h3><p align="right">
 <p align="right">
- <img src="https://user-images.githubusercontent.com/72223546/111592793-433df700-87ef-11eb-948b-a82294c3daf9.jpg" width="400" alt="girl" align="right" />
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/697810/screenshots/4627975/comp-1_00000.gif">
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tan404&label=Profile%20views&color=0e75b6&style=flat" alt="tan404" /> </p>
