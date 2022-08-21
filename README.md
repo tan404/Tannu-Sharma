@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tan404&label=Profile%20views&color=0e75b6&style=flat" alt="tan404" /> </p>
 
-- 🌱 I’m currently learning **stuff related to Data Science and Web.**
+- 🌱 I’m a [Google certified UI/UX Designer](https://in.coursera.org/account/accomplishments/verify/7DJHJQTKPXZR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course).
 
 - 👨‍💻 All of my projects are available at [https://tannusharmacv.netlify.app/](https://tannusharmacv.netlify.app/)
 
