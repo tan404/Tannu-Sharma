@@ -7,11 +7,11 @@
 
 - 🌱 I’m a [Google certified UI/UX Designer](https://in.coursera.org/account/accomplishments/verify/7DJHJQTKPXZR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course).
 
-- 👨‍💻 All of my projects are available at [https://tannusharmacv.netlify.app/](https://tannusharmacv.netlify.app/)
+- 👨‍💻 [Portfolio](https://tan404.github.io/tport/)
 
-- 📝 Videos: [https://www.youtube.com/channel/UCEyuUbR-ttK8AbHOZgDPRVw](https://www.youtube.com/channel/UCEyuUbR-ttK8AbHOZgDPRVw)
+- 📝 [Behance Profile](https://www.behance.net/tannusharma)
 
-- 📫 How to reach me **https://www.linkedin.com/in/tannu-sharma-38ab521a9/**
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/tannu-sharma-38ab521a9/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
