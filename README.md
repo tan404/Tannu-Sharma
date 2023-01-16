@@ -7,6 +7,8 @@
 
 - 🌱 I’m a [Google certified UI/UX Designer](https://www.coursera.org/account/accomplishments/verify/RHHVDGLX43EF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course).
 
+- 💻 Currently, I'm learning Flutter
+
 - 👨‍💻 [Portfolio](https://tan404.github.io/tport/)
 
 - 📝 [Behance Profile](https://www.behance.net/tannusharma)
