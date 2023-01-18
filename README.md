@@ -11,9 +11,8 @@ My name is Tannu and I'm a computer science student from India. Here's some info
 
 🌱 Interests:
 - UI/UX Designing.
+- Data analysis and machine learning
 - Web & Android development.
-- 5G Development.
-- Interior Designing.
 
 💬 Reach me by email or LinkedIn! tannu.sharma470@gmail.com | www.linkedin.com/in/tannu-sharma-38ab521a9/
 
